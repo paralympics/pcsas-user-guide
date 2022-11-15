@@ -60,7 +60,7 @@ A comprehensive table of all search options follows.
 
 PDF reports are printed in landscape format, with a set number of columns varying from 
 sport to sport when you click the *Open as PDF* button. The report is also timestamped 
-and verified with the official logos of Para-Cycling.
+and verified with the official logos of Union Cycliste Internationale.
 
 From the left, each row includes personal data – Athlete ID, family name, given name, 
 gender, date of birth – the athlete’s current class, the class status, and the year of 
@@ -103,7 +103,7 @@ a browser version in HTML, a PDF version, an Excel sheet, and the underlying XML
 outputs.
 
 It is also possible to publish links to these reports on any webpage which might be useful to 
-give the public a direct insight into the current classification master lists of Para-Cycling 
+give the public a direct insight into the current classification master lists of Union Cycliste Internationale 
 as all data are directly extracted live from PCSAS. The format of the link is
 
 <p class="text-center"><b>https://db.ipc-services.org/pcsas/web/cml/format/[:format]</b></p>

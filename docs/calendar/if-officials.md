@@ -1,6 +1,6 @@
 # IF Officials
 
-Officials of Para-Cycling can be classifiers, technical officials or judges. 
+Officials of Union Cycliste Internationale can be classifiers, technical officials or judges. 
 Classifiers are assigned to competition sports (see [Sport-specific management](calendar/competitions.md#sport-specific-management)). 
 Similar to the athletes, each classifier obtains a unique ID holding a very few 
 personal details and a list of his/her roles active and inactive roles.
@@ -21,7 +21,7 @@ personal details and a list of his/her roles active and inactive roles.
 | **Photo**                                       | image              | No             | optional, same requirements as for athletes                                                                    |
 | **Comments**                                    | text               | No             |                                                                                                                |
 | <span class="table-header">Roles</span>         |                    |                |                                                                                                                |
-| **Sport**                                       | Para-Cycling         | No             |                                                                                                                |
+| **Sport**                                       | Cycling            | No             |                                                                                                                |
 | **Category**                                    | drop-down          | No             | Classifier, Technical Official, Referee, Judge, Linesman (depending on sport)                                  |
 | **Impairment**                                  | PI                 | No             | default value for classifiers                                                                                  |
 | **Activity**                                    | active or inactive | No             | Set to inactive to avoid the classifier as available in assignment pages or for the attendance request process |

@@ -1,6 +1,6 @@
-# Security Manager
+# Account Manager
 
-The *Security Manager* module is where the database administrators (respective NPC and NF
+The *Account Manager* module is where the database administrators (respective NPC and NF
 staff) create, modify and access data related to user access of PCSAS. PCSAS needs to provide
 access control to provide only relevant data for each user and to protect data privacy of all
 athletes; this is implemented through Role-Based Access Control (RBAC). For a more thorough,
@@ -46,7 +46,7 @@ modified from the group screen or the permission screen. Currently, user account
 for the following broad of categories of users, described in more details in 
 [User Accounts](layout-and-functionalities/access.md#user-accounts):
 
-1. Para-Cycling Staff Members
+1. Union Cycliste Internationale Staff Members
 2. NPC/NF Staff Members
 3. Para-Cycling Classifiers
 
@@ -95,7 +95,7 @@ these levels are *IF Admin*, *IF Staff*, *NPC/NF*, and *Classifier* in that orde
 are just representing by a number to define the order. 
 
 The value assigned to a specific user account finally determines which other user accounts, user groups, 
-roles and permissions the user might have access to if (!) this person has access to the *Security Manager* at all.
+roles and permissions the user might have access to if (!) this person has access to the *Account Manager* at all.
 
 Technically, it means: when a user is assigned to the user level X, he can read, add, delete and 
 manipulate users, user groups, user roles and related operations of levels X and below. In an explicit case, 

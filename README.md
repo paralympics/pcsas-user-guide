@@ -9,11 +9,11 @@ This is the documentation for one of the Para-Cycling's applications, Para-Cycli
 
 ## What is PCSAS?
 
-The Para-Cycling Sport Administration System ("PCSAS") is designed to support and facilitate the information management of cycling athletes within Para-Cycling. We highly appreciate your assistance in keeping the data as up to date and accurate as possible. We welcome feedback on your experiences with using the system and with the processes implemented within it.
+The Para-Cycling Sport Administration System ("PCSAS") is designed to support and facilitate the information management of Para-Cycling athletes. We highly appreciate your assistance in keeping the data as up to date and accurate as possible. We welcome feedback on your experiences with using the system and with the processes implemented within it.
 
 The application provides the following tools:
 
-- Athletes and guides registration in all Para-Cycling disciplines
+- Athletes registration in Para-Cycling
 - Full classification management
 - Competition Calendar
 - Internal and external classification master lists

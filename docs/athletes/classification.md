@@ -65,8 +65,8 @@ In the table below, those fields are listed in the form that can be accessed fro
 
 | **Field**                       | **Format**                      | **Comments**                                                                                                 |
 | ------------------------------- | ------------------------------- | ------------------------------------------------------------------------------------------------------------ |
-| **Sport**                       |                                 | Defaults to Para-Cycling                                                                                       |
-| **Class**                       | text (50)                       | List of Para-Cycling classes and pseudo-classes                                                                |
+| **Sport**                       |                                 | Defaults to Para-Cycling                                                                                     |
+| **Class**                       | text (50)                       | List of Para-Cycling classes and pseudo-classes                                                              |
 | **Class Status**                | *Confirmed*, *Review*, or *New* | Applied to all selected classes.                                                                             |
 | **Year of Review**              | year (yyyy)                     | Year of scheduled review.                                                                                    |
 | **Classification Date**         | date (yyyy-mm-dd)               | **Tip:** the small **‘+’** opens a drop-down to indicate the order of classification panels of the same day. |

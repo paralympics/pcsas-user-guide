@@ -1,6 +1,8 @@
 # Nationality Validation
 
-*This section is only necessary to consider for athletes who are going to compete at international competitions, in any IPC sport, IPC sanctioned or even the Paralympic Games, in relation to the IPC Athlete Nationality Policy.*
+*This section is only necessary to consider for athletes who are going to compete at 
+international competitions, in any IPC sport, IPC sanctioned or even the Paralympic Games, 
+in relation to the IPC Athlete Nationality Policy.*
 
 The Nationality Validation screen offers a more concentrated view of data relevant to an
 athlete’s ID and nationality, as well as any changes that may have been approved by UCI. 

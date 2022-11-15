@@ -32,7 +32,7 @@ When registering a new change request, following fields appear:
 | **Requested Completion**                                         | date       | Date by when the completion of the change request is optimal?                                                        |
 | **Attachment**                                                   | file       | Any supporting file (rule book, template, screenshots, drawings, images) can be attached here as supporting material |
 | <span class="table-header">Feedback by IPC Sports IT team</span> |            |                                                                                                                      |
-| **Request Status**                                               | dropdown   | <span class="asterisk">2</span>                                                                                      |
+| **Request Status**                                               | dropdown   | <span class="asterisk">3</span>                                                                                      |
 | **Responsible Developer**                                        | text (50)  | Username of the IPC Sports IT Team staff member that is in charge of the change request.                             |
 | **Estimated Delivery Date**                                      | date       |                                                                                                                      |
 | **Estimated Working Time**                                       | float      | Number of hours that the team will likely spend on the implementation of the change.                                 |

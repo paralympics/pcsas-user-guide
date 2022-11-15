@@ -24,21 +24,22 @@ former IOC code.
 
 For the effective co-operation between the various SDMS versions, each sport and each class 
 are owned by a particular international federation. As athletes are stored in a central SDMS 
-database that is shared between the existing IF SDMS versions (IPC, IBSA, and UCI), the classification of the athlete defines who is the owner of the athlete profile. 
+database that is shared between the existing IF SDMS versions (IPC, IBSA, and UCI), 
+the classification of the athlete defines who is the owner of the athlete profile. 
 Ownership can be shared by several IFs if the athlete is registered in various sports, e.g. 
-athletics (World Para Athletics/IPC) and cycling (Para-Cycling). However, the access to 
-classification relevant data is limited to the owner of the respective sport.
+athletics (World Para Athletics/IPC) and Para-Cycling (Union Cycliste Internationale). 
+However, the access to classification relevant data is limited to the owner of the respective sport.
 
 Each federation registered has two assignment tables which sports it governs and which are 
 the national member federations.
 
-Para-Cycling as owner of PCSAS can view all data sets, and additionally can amend the 
+Union Cycliste Internationale as owner of PCSAS can view all data sets, and additionally can amend the 
 list of national members of their own federation. This list then applies to all country drop-down
 menus across PCSAS.
 
-When a new country is granted membership at Para-Cycling, or when such a member 
-loses its status, search for Para-Cycling as international federation, open its detail page 
-and the tab **‘Members’**. The assignment table as shown in the Figure 3.1.
+When a new country is granted membership at Union Cycliste Internationale, or when such a member 
+loses its status, search for Union Cycliste Internationale as international federation, open its 
+detail page and the tab **‘Members’**. The assignment table as shown in the Figure 3.1.
 
 Both tables are populated from the list of potential active country members as defined in the 
 **‘members’** section of PCSAS, loaded from the [IPC Common Codes](https://db.ipc-services.org/centre/common-codes/index). 
@@ -46,7 +47,7 @@ The right table shows the current membership; in the left table, all potential c
 
 <figure>
   <img src="_img/figures/3.1-assignment-grid-federation.png" alt="Assignment Grid of National Member Federations" class="screenshot">
-  <figcaption>Figure 3.1 Assignment screen of national member federations to Para-Cycling</figcaption>
+  <figcaption>Figure 3.1 Assignment screen of national member federations to Union Cycliste Internationale</figcaption>
 </figure>
 
 To assign, find the new country on the left. Either select it and click **‘Assign’** or move it to the 

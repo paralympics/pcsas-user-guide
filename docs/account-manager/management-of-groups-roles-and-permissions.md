@@ -13,13 +13,13 @@ Each naturally connected role in PCSAS should be defined as a role, where you ca
 between the responsibilities on each level of NPCs, NFs, and classifiers. To define a new role, click 
 **Add Role** from the *User Roles* search form and complete the following details:
 
-| **Field**         | **Format** | **Comments**                                                                                                                                                                                                                                                                                      |
-| ----------------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Role Code**     | text (30)  | Cannot be changed after creation; should not contain spaces; it is recommended to follow the CamelCaseSpelling like for already existing roles.                                                                                                                                                   |
-| **Application**   | PCSAS      |                                                                                                                                                                                                                                                                                                   |
-| **Level**         | drop-down  | see [User's Level](security-manager/user-accounts#users-level)                                                                                                                                                                                                                                    |
-| **Description**   | text (200) | Descriptive label of the user roles; it is recommended to follow the examples of the predefined roles.                                                                                                                                                                                            |
-| **Task Category** | text (8)   | Each operation and task is grouped. You can define which group(s) should be displayed only for this role by inserting the beginning of the group names. For a list of all existing task categories, see [Item Groups](security-manager/management-of-groups-roles-and-permissions.md#item-groups) |
+| **Field**         | **Format** | **Comments**                                                                                                                                                                                                                                                                                     |
+| ----------------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Role Code**     | text (30)  | Cannot be changed after creation; should not contain spaces; it is recommended to follow the CamelCaseSpelling like for already existing roles.                                                                                                                                                  |
+| **Application**   | PCSAS      |                                                                                                                                                                                                                                                                                                  |
+| **Level**         | drop-down  | see [User's Level](account-manager/user-accounts#users-level)                                                                                                                                                                                                                                    |
+| **Description**   | text (200) | Descriptive label of the user roles; it is recommended to follow the examples of the predefined roles.                                                                                                                                                                                           |
+| **Task Category** | text (8)   | Each operation and task is grouped. You can define which group(s) should be displayed only for this role by inserting the beginning of the group names. For a list of all existing task categories, see [Item Groups](account-manager/management-of-groups-roles-and-permissions.md#item-groups) |
 
 After a role is created, all tasks (left column) and operations (right column) appear in the second part 
 of the detail page. Click all tasks the role should allow and **Save** again. The slider in the middle reflects 
@@ -30,14 +30,15 @@ appears allowing you register the new role to one or more existing user groups.
 
 The item groups for a role define which functions appear in the lower part of the role detail page. 
 As there are more than 200 different tasks and operations defined, it is recommended to restrict 
-each role to one item group. The following item groups are defined, mostly representing one of 
-the six PCSAS modules:
+each role to one item group. The following item groups are defined, representing one of 
+the PCSAS modules:
 - ATHLETES – registration and classification of athletes
-- CALENDAR – competitions and their officials, events and meetings
+- CALENDAR – competitions and events
+- OFFICIAL – UCI officials
 - C_CODES – sport and regional codes
 - REPORTS – PCSAS report section
-- SEC – Security/account manager
-- SETTINGS – Application settings (basic codes, additional fields, news)
+- ACCOUNT – Security/account manager
+- CONFIG – Application settings (basic codes, additional fields, news)
 - TRACKER – access to the IPC Database Issue Tracker
 
 ## Role Functions
@@ -61,7 +62,7 @@ but not open the documents in PCSAS.
 ## User Groups
 
 The roles are gathered together into specific *User Groups*, which correspond broadly to the categories of 
-user accounts described in [User Accounts](security-manager/user-accounts.md). When creating a new user account, 
+user accounts described in [User Accounts](account-manager/user-accounts.md). When creating a new user account, 
 you assign one or more groups with the specific roles and permissions. 
 
 User groups can be added and removed from two screens: the user account details screen has a list of the user’s 
@@ -82,7 +83,7 @@ adding and removing roles and permissions works nearly analogously.
 
 ### How To: Add User Groups to an Account
 
-1. Go to the *Security Manager* module and open the *User Accounts* search form.
+1. Go to the *Account Manager* module and open the *User Accounts* search form.
 2. Find the relevant user by entering required search criteria or scrolling through the result pages.
 3. Click the user’s row to open the user’s details page; then click the *User Groups* tab to access the groups.
 4. Find the desired group to add, either by scrolling through the result matrix for the available groups or by 
@@ -95,7 +96,7 @@ the available section and all relevant access derived from the associated roles 
 
 ### Data Permissions
 
-PCSAS defines a single category of data permissions, that is for the national member federation of Para-Cycling. 
+PCSAS defines a single category of data permissions, that is for the national member federation of Union Cycliste Internationale. 
 Each user must have access to at least one in that category; otherwise the user will not be able to access any athlete 
 at all as each athlete is associated with one country.
 
@@ -104,7 +105,7 @@ with the %-character. This global permission cannot be deleted.
 
 To register a new data permission, go to the search screen and click **Add Permission**. Select the permission category 
 *National Federation* and enter the permission codes as follows:
-- For a new national member of Para-Cycling, please check the NPC code as registered in regional application settings 
+- For a new national member of Union Cycliste Internationale, please check the NPC code as registered in regional application settings 
   (see [Members](application-settings/regional-data.md#members)). Then enter as permission code the found NPC code, 
   e.g. SUI for Switzerland.
 

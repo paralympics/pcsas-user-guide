@@ -18,16 +18,19 @@ Internet by inserting the following URL in the browser of your choice
 
 ## Recommended Browsers 
 It is recommended to use most modern and widely used browsers with recent updates 
-installed to ensure stable functionality and security. PCSAS runs best under latest versions of [Firefox](https://www.mozilla.org/en-US/firefox/), [Google Chrome]([version](https://www.google.com/chrome/)) or [Microsoft Edge](https://www.microsoft.com/en-us/edge). Users of Internet Explorer (version 9 or higher) shall regularly update and inform about potential general security issues; and either download a 
-stable version or look for alternatives. Additionally, JavaScript must be enabled for correct functionality of PCSAS.
+installed to ensure stable functionality and security. PCSAS runs best under latest versions of 
+[Firefox](https://www.mozilla.org/en-US/firefox/), [Google Chrome]([version](https://www.google.com/chrome/)) 
+or [Microsoft Edge](https://www.microsoft.com/en-us/edge). Users of Internet Explorer (version 9 or higher) shall 
+regularly update and inform about potential general security issues; and either download a stable version or look 
+for alternatives. Additionally, JavaScript must be enabled for correct functionality of PCSAS.
 
 > Please note that Internet Explorer has been retired by Microsoft and will be out of support as of June 15, 2022.
 
 ## User Accounts 
 Currently, there are four main user groups defined. Besides the administrator account hold 
 by the developer of PCSAS (the IPC) to review potential issues and change requests, 
-accounts are granted to Para-Cycling, their classifiers, and their national members 
-(NFs). Para-Cycling as supervisor of the Para-Cycling classification processes can create 
+accounts are granted to Union Cycliste Internationale, their classifiers, and their national members 
+(NFs). Union Cycliste Internationale as supervisor of the Para-Cycling classification processes can create 
 accounts internally and for the NFs. By default, member federations and classifiers don’t 
 have the rights to access the PCSAS user management. 
 
@@ -52,7 +55,10 @@ the update of classification values and files to ensure consistent and high data
 
 ## Security and Passwords
 
-PCSAS is a password-protected application. This protection requires high standard beginning with usage of strong passwords. Strength of a password is primarily defined by its length and its used character set. To find a compromise between security and user-friendliness, a password for PCSAS and all its related modules requires:
+PCSAS is a password-protected application. This protection requires high standard beginning with 
+usage of strong passwords. Strength of a password is primarily defined by its length and its used 
+character set. To find a compromise between security and user-friendliness, a password for PCSAS 
+and all its related modules requires:
 
   &check; Minimum length of eight (8) characters
 

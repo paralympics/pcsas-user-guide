@@ -14,8 +14,8 @@ each competition must be assigned to a specific season. By default, it is the se
 competition takes place in, but exceptions can be applied if, for example, a licensing 
 programme is in place.
 
-For Para-Cycling, the season between 2017 and 2020 are pre-configured. Additionally, 
-with Para-Cycling considered as summer sport, seasons are automatically considered as 
+For Union Cycliste Internationale, the season between 2017 and 2020 are pre-configured. Additionally, 
+with Cycling considered as summer sport, seasons are automatically considered as 
 summer seasons.
 
 | **Field**      | **Format**        | **Comments**                                                                                                            |
@@ -33,7 +33,7 @@ The open date fields allow a flexible definition of seasons even outside the sta
 
 On the left-hand side of the PCSAS login page, short news can be flexibly published, e.g. 
 about the update the application, introduction of new regulations, links to important 
-documents and more. By default, Para-Cycling as owner of PCSAS can add, remove and 
+documents and more. By default, Union Cycliste Internationale as owner of PCSAS can add, remove and 
 change articles for this news panel. 
 
 Each article has a title appearing as bold printed header, a body text and a publication date. 
@@ -44,4 +44,4 @@ article on top. The body text also allows basic HTML tags like:
 - horizontal lines `<hr>`
 - `<b>bold</b>` style 
 - `<i>italic</i>` style 
-- `<a href=”http://destination.url” target=”_blank”>Link Text</a>` would add a hyperlink with the respective destination, opened in a new window. 
+- `<a href=”https://www.example.com” target=”_blank”>Link Text</a>` would add a hyperlink with the respective destination, opened in a new window. 

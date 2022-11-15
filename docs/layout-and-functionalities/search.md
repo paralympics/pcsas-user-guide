@@ -5,7 +5,7 @@ a search functionality to target the user’s data.
 
 <figure>
     <img class="screenshot" src="_img/figures/2.9-search-results-matrix.png" alt="Search Results Matrix">
-    <figcaption>Figure 2.9 - Search Results Matrix - Application  (Application Settings > Config > App News)</figcaption>
+    <figcaption>Figure 2.9 - Search Results Matrix - Application (Application Settings > Config > App News)</figcaption>
 </figure>
 
 The search page in turns offers a results matrix with an input row for the search criteria. When a 
@@ -31,21 +31,21 @@ supplied text, rather than exact matches.
 
 The footer consists of several icons for handling the data or scroll through the full set of data.
 
-| **Icon**                                                                                | **Description**                                                                                                                     |
-| :-------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="_img/inline/icon-delete.svg" alt="Delete" class="inline svg-large"> | Deletes the selected row(s). On attempt to delete data which is related to other information or entities, an error message appears. |
-| <img src="_img/inline/icon-reload.svg" alt="Reload" class="inline svg-large">                    | Reloads the grid.                                                                                                                   |
-| <img src="_img/inline/icon-filter-remove.svg" alt="Reset" class="inline svg-large">               | Clears the search parameters.                                                                                                       |
-| <img src="_img/inline/icon-format-columns.svg" alt="Column" class="inline svg-large">             | Manipulate order and number of columns supported by a small interface.<span class="asterisk">*</span>                               |
-| <img src="_img/inline/icon-excel-download.svg" alt="Export" class="inline svg-large">             | Exports all data based on search criteria and column selection and order into an Excel file.                                        |
-| <img src="_img/inline/icon-tools.png" alt="Tools" class="inline icon-set">              | Tools to select matrix pages.                                                                                                       |
-| <img src="_img/inline/icon-first.png" alt="First" class="inline icon-set">              | Go to first page.                                                                                                                   |
-| <img src="_img/inline/icon-previous.png" alt="Previous" class="inline icon-set">        | Go to previous page.                                                                                                                |
-| <img src="_img/inline/icon-next.png" alt="Next" class="inline icon-set">                | Go to next page.                                                                                                                    |
-| <img src="_img/inline/icon-last.png" alt="Last" class="inline icon-set">                | Go to last page.                                                                                                                    |
-| <img src="_img/inline/icon-direct.png" alt="Direct" class="inline icon-set">            | Direct page selection: change page number and press **Enter**.                                                                      |
-| <img src="_img/inline/icon-rows.png" alt="Rows" class="inline icon-set">                | Changes the number of rows per page.                                                                                                |
-| <img src="_img/inline/icon-current.png" alt="Current" class="inline icon-set">          | Shows current position and total data rows based on search criteria.                                                                |
+| **Icon**                                                                              | **Description**                                                                                                                     |
+| :------------------------------------------------------------------------------------ | :---------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="_img/inline/icon-delete.svg" alt="Delete" class="inline svg-large">         | Deletes the selected row(s). On attempt to delete data which is related to other information or entities, an error message appears. |
+| <img src="_img/inline/icon-reload.svg" alt="Reload" class="inline svg-large">         | Reloads the grid.                                                                                                                   |
+| <img src="_img/inline/icon-filter-remove.svg" alt="Reset" class="inline svg-large">   | Clears the search parameters.                                                                                                       |
+| <img src="_img/inline/icon-format-columns.svg" alt="Column" class="inline svg-large"> | Manipulate order and number of columns supported by a small interface.<span class="asterisk">*</span>                               |
+| <img src="_img/inline/icon-excel-download.svg" alt="Export" class="inline svg-large"> | Exports all data based on search criteria and column selection and order into an Excel file.                                        |
+| <img src="_img/inline/icon-tools.png" alt="Tools" class="inline icon-set">            | Tools to select matrix pages.                                                                                                       |
+| <img src="_img/inline/icon-first.png" alt="First" class="inline icon-set">            | Go to first page.                                                                                                                   |
+| <img src="_img/inline/icon-previous.png" alt="Previous" class="inline icon-set">      | Go to previous page.                                                                                                                |
+| <img src="_img/inline/icon-next.png" alt="Next" class="inline icon-set">              | Go to next page.                                                                                                                    |
+| <img src="_img/inline/icon-last.png" alt="Last" class="inline icon-set">              | Go to last page.                                                                                                                    |
+| <img src="_img/inline/icon-direct.png" alt="Direct" class="inline icon-set">          | Direct page selection: change page number and press **Enter**.                                                                      |
+| <img src="_img/inline/icon-rows.png" alt="Rows" class="inline icon-set">              | Changes the number of rows per page.                                                                                                |
+| <img src="_img/inline/icon-current.png" alt="Current" class="inline icon-set">        | Shows current position and total data rows based on search criteria.                                                                |
 
 <p class="footnote">
     <small><span class="asterisk">*</span>Hidden columns which do not fit in the default view can be added here if necessary.</small>

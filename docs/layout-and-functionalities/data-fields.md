@@ -12,8 +12,8 @@ PCSAS has a few additional functionalities or tools behind the fields the user m
 field blank upon submission will cause an error, and the data set won’t be saved unless 
 the field has a valid value. 
 - **Value Validity Control** – Each field is subject to a set of specific rules. These rules might 
-consider value length (number of characters), value type (integer, float, text, …) or even 
-specific value formats (dates, NPC Code, …). On validation failure, an error is thrown, 
+consider value length (number of characters), value type (integer, float, text, ...) or even 
+specific value formats (dates, NPC Code, ...). On validation failure, an error is thrown, 
 and the related field is displayed in red. 
 - **Files** – When a file upload becomes necessary, the file is checked against the maximal 
 file size (in bytes) and file format (photos, PDFs). Photos are additionally reviewed for 
@@ -33,4 +33,4 @@ and <img src="_img/inline/date-field-right.svg" alt="Right Scroll" class="inline
 scroll through the calendar by month. The selected date will be highlighted. This small window 
 closes automatically when a date is selected, the button **Done** is clicked or another 
 field is selected. In some date fields, minimum and maximum dates are set up. 
-The calendar tool for those fields only displays the acceptable date range. 
+The calendar tool for those fields only displays the acceptable date range.

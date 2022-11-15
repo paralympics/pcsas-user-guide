@@ -25,11 +25,10 @@
 
   - [Personal Data / Registration](athletes/personal-data-or-registration.md)
   - [Classification](athletes/classification.md)
+  - [Equipment](athletes/equipment.md)
   - [Nationality Validation](athletes/nationality-validation.md)
-  - [Duplicate Control](athletes/duplicate-control.md)
-  - [Classification Mass Import](athletes/classification-mass-import.md)
-  - [Career Log](athletes/career-log.md)
-  - [File Access Log](athletes/file-access-log.md)
+  - [Tools](athletes/tools.md)
+  - [Logs](athletes/logs.md)
 
 - Calendar
 
@@ -41,11 +40,11 @@
   - [Classification Master List](reports/classification-master-list.md)
   - [Classification Files](reports/classification-files.md)
 
-- Security Manager
+- Account Manager
 
-  - [User Accounts](security-manager/user-accounts.md)
-  - [Groups, Roles and Permissions](security-manager/groups-roles-and-permissions.md)
-  - [Management of Groups, Roles and Permissions](security-manager/management-of-groups-roles-and-permissions.md)
+  - [User Accounts](account-manager/user-accounts.md)
+  - [Groups, Roles and Permissions](account-manager/groups-roles-and-permissions.md)
+  - [Management of Groups, Roles and Permissions](account-manager/management-of-groups-roles-and-permissions.md)
 
 - IPC Database Issue Tracker
   - [Change Requests](database-issue-tracker/change-requests.md)
