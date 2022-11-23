@@ -101,7 +101,7 @@ Photo and other documentation can be uploaded during or after first registration
 Click the field labelled **Browse...** to select the athlete’s photo from your local hard drive or network. 
 The requirements for photos are described in chapter 2.5. For quick reference, the photo should be in passport size 
 format, around 7:10 in aspect ratio, and saved as a JPG file smaller than 250 kB. Click the 
-<img src="_img/inline/icon-browse.png" alt="Browse" class="inline"> icon to select the athlete’s 
+<img src="_img/inline/icon-browse.png" alt="Browse" class="inline-button-small"> button to select the athlete’s 
 passport copy or IPC nationality letter in PDF format from your local hard drive.
 
 After an athlete has been registered, there may be reason to change the details, for example 

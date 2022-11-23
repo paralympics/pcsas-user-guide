@@ -131,7 +131,7 @@ selecting its row and then clicking the **Delete** button.
 
 6. If you have any documents to upload, go to the *Files* tab of the relevant sport.
    
-7. Click the <img src="_img/inline/icon-browse.png" alt="Browse" class="inline"> or the 
+7. Click the <img src="_img/inline/icon-browse.png" alt="Browse" class="inline-button-small"> button or the 
    <img src="_img/inline/icon-replace.svg" alt="Replace File" class="inline svg-small"> icon (if a file is already attached) 
    in the row of the relevant document, e.g. classification sheet, medical form, protest sheet.
 
